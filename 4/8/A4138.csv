@@ -1,0 +1,40 @@
+size: 100000000, final array:
+initialization time: 1.0370781421661377
+scattering time: 1.3529188632965088
+rank odd even time: 43.75175881385803
+gather time: 1.1670444011688232
+size: 100000000, final array:
+initialization time: 1.0509965419769287
+scattering time: 1.3510019779205322
+rank odd even time: 40.23014688491821
+gather time: 4.116631269454956
+size: 100000000, final array:
+initialization time: 1.0466573238372803
+scattering time: 1.2869982719421387
+rank odd even time: 40.73829531669617
+gather time: 3.6847736835479736
+size: 100000000, final array:
+initialization time: 1.0450825691223145
+scattering time: 1.967041254043579
+rank odd even time: 41.8363311290741
+gather time: 2.519547939300537
+size: 100000000, final array:
+initialization time: 1.1029973030090332
+scattering time: 1.7805187702178955
+rank odd even time: 41.52097725868225
+gather time: 2.7935447692871094
+size: 100000000, final array:
+initialization time: 1.0695133209228516
+scattering time: 1.275073766708374
+rank odd even time: 41.80344581604004
+gather time: 2.2005176544189453
+size: 100000000, final array:
+initialization time: 1.0429964065551758
+scattering time: 1.2785356044769287
+rank odd even time: 40.69870662689209
+gather time: 3.7993662357330322
+size: 100000000, final array:
+initialization time: 1.0276226997375488
+scattering time: 1.2684345245361328
+rank odd even time: 41.950610876083374
+gather time: 2.7150349617004395

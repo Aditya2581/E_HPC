@@ -1,0 +1,20 @@
+size: 100000000, final array:
+initialization time: 1.0433297157287598
+scattering time: 1.0019991397857666
+rank odd even time: 58.630903005599976
+gather time: 1.4161014556884766
+size: 100000000, final array:
+initialization time: 1.0135157108306885
+scattering time: 1.0530025959014893
+rank odd even time: 59.09445357322693
+gather time: 1.5049991607666016
+size: 100000000, final array:
+initialization time: 1.0089995861053467
+scattering time: 0.9839982986450195
+rank odd even time: 58.926568031311035
+gather time: 1.370021104812622
+size: 100000000, final array:
+initialization time: 1.1290011405944824
+scattering time: 0.9390020370483398
+rank odd even time: 59.219072341918945
+gather time: 1.6600189208984375

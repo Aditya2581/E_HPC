@@ -1,0 +1,22 @@
+4865.606066465378
+5482.978972434998
+4625.38169503212
+4517.960269212723
+4651.129595518112
+4510.38481760025
+4498.607472896576
+5623.060142755508
+
+job aborted:
+[ranks] message
+
+[0] job terminated by the user
+
+[1-8] terminated
+
+---- error analysis -----
+
+[0] on LAPTOP-LHKSPJP8
+ctrl-c was hit. job aborted by the user.
+
+---- error analysis -----
